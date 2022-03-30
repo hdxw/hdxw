@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[我的博客](https://blog.wujiaxing.cn/)
+
+[NES游戏机](https://nes.wujiaxing.cn/)
+
+[在线扶贫](https://fupin.wujiaxing.cn/)
+
+[短链接](https://阿巴阿巴.中国/)
+
 <!--
 **hdxw/hdxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
